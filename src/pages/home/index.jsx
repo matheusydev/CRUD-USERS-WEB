@@ -1,9 +1,21 @@
+import { useState, useEffect } from 'react'
 import './style.css'
 import Trash from '../../assets/trash.svg'
+import api from '../../services/api'
 
 function Home() {
 
   const [users, setUsers] = useState([])
+
+  async function getUsers() {
+    const response = await api.get('/usuarios')
+    setUsers(response.data)
+  }
+
+
+  useEffect(() => {
+    getUsers()
+  }, [])
 
   return (
     <div className='container'>
