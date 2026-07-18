@@ -9,10 +9,15 @@ O objetivo da aplicação é permitir que usuários possam **cadastrar, visualiz
 <br/>
 
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
-[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)](https://vite.dev/)
+[![Axios](https://img.shields.io/badge/Axios-black?style=for-the-badge&logo=axios)](https://axios-http.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-black?style=for-the-badge&logo=eslint)](https://eslint.org/)
+
+
+<br/>
+
+**🔗 [Acesse o projeto em produção](https://crud-users-web.vercel.app/)**
 
 </div>
 
